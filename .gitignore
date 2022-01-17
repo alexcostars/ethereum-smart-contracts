@@ -1,1 +1,2 @@
-/deploy-contracts/node_modules
+deploy-contracts/node_modules
+deploy-contracts/src/abis/*.json
